@@ -335,6 +335,7 @@ input#submit:hover {
 		flex-direction: column;
 		flex-wrap: nowrap;
 		justify-content: center;
+		position: static;
 	}
 
 	.header h1 {
@@ -363,6 +364,7 @@ input#submit:hover {
 
 	.main {
 		flex-direction: column;
+		min-width: 0;
 	}
 
 	#profile-pic {
