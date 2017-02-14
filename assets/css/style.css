@@ -291,7 +291,6 @@ input#submit:hover {
 .portfolio-pics:hover {
 	opacity: 1.0;
 	transform: scale(1.05);
-	opacity: 1;
 	z-index: 1000;
 	outline-style: solid;
 	outline-width: 2px;
